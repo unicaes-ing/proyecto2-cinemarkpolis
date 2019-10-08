@@ -1,0 +1,6 @@
+C:\Users\alber\Desktop\Proyecto Cine - Periodo Núm.2\Cine ShowFilm - Proyecto Periodo Núm.2\Cine ShowFilm - Proyecto Periodo Núm.2\bin\Debug\Cine ShowFilm - Proyecto Periodo Núm.2.exe.config
+C:\Users\alber\Desktop\Proyecto Cine - Periodo Núm.2\Cine ShowFilm - Proyecto Periodo Núm.2\Cine ShowFilm - Proyecto Periodo Núm.2\bin\Debug\Cine ShowFilm - Proyecto Periodo Núm.2.exe
+C:\Users\alber\Desktop\Proyecto Cine - Periodo Núm.2\Cine ShowFilm - Proyecto Periodo Núm.2\Cine ShowFilm - Proyecto Periodo Núm.2\bin\Debug\Cine ShowFilm - Proyecto Periodo Núm.2.pdb
+C:\Users\alber\Desktop\Proyecto Cine - Periodo Núm.2\Cine ShowFilm - Proyecto Periodo Núm.2\Cine ShowFilm - Proyecto Periodo Núm.2\obj\Debug\Cine ShowFilm - Proyecto Periodo Núm.2.csprojAssemblyReference.cache
+C:\Users\alber\Desktop\Proyecto Cine - Periodo Núm.2\Cine ShowFilm - Proyecto Periodo Núm.2\Cine ShowFilm - Proyecto Periodo Núm.2\obj\Debug\Cine ShowFilm - Proyecto Periodo Núm.2.exe
+C:\Users\alber\Desktop\Proyecto Cine - Periodo Núm.2\Cine ShowFilm - Proyecto Periodo Núm.2\Cine ShowFilm - Proyecto Periodo Núm.2\obj\Debug\Cine ShowFilm - Proyecto Periodo Núm.2.pdb
